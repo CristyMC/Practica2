@@ -7,5 +7,8 @@ import org.certificatic.spring.soba.domain.Movement;
 public interface IMovementService {
 
 	List<Movement> getByAccountId(Long accountId);
+	
+	
+	error faltalllll
 
 }
