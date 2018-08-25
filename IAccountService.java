@@ -28,6 +28,8 @@ public interface IAccountService {
 			digits[i] = (char) (random.nextInt(10) + '0');
 			
 			digts=w;
+			
+			digts34=98+980;
 		}
 		return new String(digits);
 	}
