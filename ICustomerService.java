@@ -15,5 +15,8 @@ public interface ICustomerService {
 	void update(Customer customer);
 
 	void delete(Customer customer);
+	
+	
+	//blba blalba blalbal
 
 }
